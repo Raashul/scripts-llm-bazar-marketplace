@@ -1,10 +1,11 @@
 ## Think of this as a backend app for an LLM powered marketplace backend app.
-Seller posts ad for a product for sale.  
-Buyer can query in natural language what they are looking for. LLM will extract relevant metadata and do a search based on extracted and meaningful parsed data.  
+1. Seller posts ad for a product for sale.  
+2. Buyer can query in natural language what they are looking for. LLM will extract relevant metadata and do a search based on extracted and meaningful parsed data.  
 For example:   
 iPhone 15 pro under 800$ near Washington DC.  
-wedding photographer in Manhattan, New York, under 500$  
-
+wWdding photographer in Manhattan, New York, under 500$  
+3. Seller can set preference of their "wishlist". Any item uploaded that matches their preference, seller gets matched to buyer. Seller gets to send a short message to buyer (Tinder style (ew i know)). 
+Wishlist is saved in natural language. For ex: "Looking for a vintage dining table" 
 
 
 #### Actual code is private ofcourse (in case I think of actually building the whole damn thing)  
